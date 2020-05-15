@@ -32,10 +32,7 @@ function greet(){
 
 }
 
-  /* Write your implementation of displayMessage() */
-function displayMessage(){
-  let p=greet();
-  let a=document.getElementById("greeting").innerHTML(p);
+  /* Write your implementation of displayMessage() *
   
   
   
