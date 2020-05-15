@@ -34,7 +34,7 @@ function greet(){
 
   /* Write your implementation of displayMessage() */
   document.addEventListener("click", displayMessage(){
-  document.getElementById("demo").innerHTML = "Hello World";
+  document.getElementById("text").innerHTML = ;
 });
   
   
