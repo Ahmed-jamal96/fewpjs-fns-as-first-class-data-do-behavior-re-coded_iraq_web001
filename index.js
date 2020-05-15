@@ -32,7 +32,10 @@ function greet(){
 
 }
 
-  /* Write your implementation of displayMessage() *
+  /* Write your implementation of displayMessage() */
+  document.addEventListener("click", function(){
+  document.getElementById("demo").innerHTML = "Hello World";
+});
   
   
   
